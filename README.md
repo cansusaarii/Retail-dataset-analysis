@@ -29,6 +29,9 @@ To gain deeper insights, various data visualizations were generated using Seabor
 
 Several machine learning algorithms were considered to determine the most suitable model. Linear regression and K-means clustering were chosen for initial experimentation. Linear regression was used to predict customer purchases based on features like amount and age, while K-means clustering helped identify customer segments based on purchasing behavior.
 
+# One-Hot Encoding
+One-hot encoding was employed to convert categorical variables into a format suitable for machine learning algorithms. In the retail dataset, features such as 'Customer_Segment' and 'Product_Category' were categorical, meaning they contained non-numeric labels. 
+
 # Target Variable and Feature Selection
 
 Careful consideration was given to selecting the target variable (Total Purchases) and the relevant features for the models.
