@@ -1,3 +1,8 @@
+
+![Ekran görüntüsü 2024-12-09 163334](https://github.com/user-attachments/assets/90802a21-ee87-4364-b6b3-1df465b38671)
+
+
+
 # Retail-dataset-analysis
 
 Data analysis and model evaluation on the retail dataset I made while participating in the ML Bootcamp by Global AI Hub.
